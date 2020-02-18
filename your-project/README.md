@@ -3,7 +3,7 @@
 # Sustainability indicators in Amsterdam
 *Zuzanna Orlowska & Maaike de Jong*
 
-*[Your Cohort, Campus & Date]*
+*Ironhack Data Analytics Part-time 2020 Amsterdam*
 
 ## Content
 - [Project Description](#project-description)
