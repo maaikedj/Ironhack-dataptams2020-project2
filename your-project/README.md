@@ -51,5 +51,5 @@ In the 'your_data' folder of the repository you can find the notebooks for the d
 
 ## Links
 [Repository](https://github.com/maaikedj/Project_2_Amsterdam_dataptams2020)  
-[Slides](https://slides.com/)  
+[Slides](https://drive.google.com/drive/u/0/folders/1bB72SK67NKxcn1xclgVhOQtNvV0HfvWr)  
 [Trello](https://trello.com/b/tLpx4ZUU/project-2)  
