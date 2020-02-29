@@ -37,10 +37,11 @@ From the data portal of the Amsterdam city council [website](https://maps.amster
 
 From Overheid.nl:
  * [Energylabels in Amsterdam](https://data.overheid.nl/dataset/dc1c9286-fba7-4fd7-b55f-1a3f8cb3101e)
+ * Income per Amsterdam area
 
 We used data on house prices from this [website](https://financieel.infonu.nl/geld/173129-huizenmarkt-van-amsterdam-prijzen-per-stadsdeel-en-per-m.html#amsterdam-centrum-oa-grachtengordel-en-jordaan)
 
-All datasets can be found in this google folder: https://drive.google.com/drive/folders/15N97ElHfoyX_Pe7C3W0BGkCg3LbKdrP1
+All datasets we used can be found in this google folder: https://drive.google.com/drive/folders/15N97ElHfoyX_Pe7C3W0BGkCg3LbKdrP1
 
 ## Workflow
 Starting with the general topic of sustainability, we searched for relevant datasets to see what's available, after which we refined our questions. We then broke down and planned the different phases of our project. Next, we wrote jupyter notebooks in python for different parts of the analysis. 
