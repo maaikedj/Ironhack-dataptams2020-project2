@@ -4,6 +4,7 @@
 *Zuzanna Orlowska & Maaike de Jong*
 
 *Ironhack Data Analytics Part-time 2020 Amsterdam*
+*March 2020*
 
 ## Content
 - [Project Description](#project-description)
@@ -51,6 +52,6 @@ We created a kanban board to plan the different steps of the project (see link b
 In the 'your_data' folder of the repository you can find the notebooks for the different part of the analysis.  
 
 ## Links
-[Repository](https://github.com/maaikedj/Project_2_Amsterdam_dataptams2020)  
+[Repository](https://github.com/maaikedj/Ironhack-dataptams2020-project2)  
 [Slides](https://drive.google.com/drive/u/0/folders/1bB72SK67NKxcn1xclgVhOQtNvV0HfvWr)  
 [Trello](https://trello.com/b/tLpx4ZUU/project-2)  

@@ -8,4 +8,4 @@
 *.docx
 *.ipynb_checkpoints
 *.png
-
+**/.DS_Store
